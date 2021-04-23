@@ -1,0 +1,26 @@
+{
+  "name": "quillhash-ICO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishitarastogi/quillhash-ICO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishitarastogi/quillhash-ICO/issues"
+  },
+  "homepage": "https://github.com/ishitarastogi/quillhash-ICO#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  }
+}
